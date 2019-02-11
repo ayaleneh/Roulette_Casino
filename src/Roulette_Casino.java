@@ -12,7 +12,7 @@ public class Roulette_Casino {
         String choice;
         int total_balance=0;
         System.out.println("|____________________________|");
-        System.out.println("|********WELLCOME TO*********|");
+        System.out.println("|********WELLCOME_TO*********|");
         System.out.println("|*****ROULETTE CASINO GAME***|");
         System.out.println("|----------------------------|");
 
